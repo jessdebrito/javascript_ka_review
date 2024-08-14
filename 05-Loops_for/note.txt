@@ -1,0 +1,23 @@
+        # Estruturas
+Existem três tipos de estruturas de repetição básicas em JavaScript, que veremos com mais
+detalhes durante a semana:
+
+    for loop: O for loop é usado quando sabemos exatamente quantas vezes o loop deve ser 
+executado. Ele usa uma variável de controle, que é inicializada com um valor, testada em
+relação a uma condição e incrementada ou decrementada a cada iteração do loop.
+
+    while loop: O while loop é usado quando não sabemos exatamente quantas vezes o loop 
+deve ser executado. Ele usa uma condição que é testada antes de cada iteração do loop. 
+Enquanto a condição for verdadeira, o loop continuará a ser executado.
+
+    do...while loop: O do...while loop é semelhante ao while loop, mas a condição é testada
+depois da primeira iteração do loop. Isso significa que o bloco de código dentro do loop 
+será executado pelo menos uma vez, mesmo se a condição for falsa na primeira iteração.
+
+
+        # Conclusão
+As estruturas de repetição são úteis quando precisamos executar uma tarefa repetidamente. 
+Combinado com as estruturas de controle de fluxo, como if/else, as estruturas de repetição 
+permitem que criemos programas complexos e poderosos em JavaScript.
+
+i = index
